@@ -1,6 +1,6 @@
 # WebScraper
 Description:
-This a WebScraper built to get data from an ecommerce store using Python Selenium and Beautiful Soup. Data is retrieved by using Selenium to mimic end-user behavior and click on each link. After the script is run, the data retrieved is saved to a csv file. this respository contains both the Python script and the output that was saved to a .csv file.
+This a WebScraper built to get data from an ecommerce store using Python Selenium and Beautiful Soup. Data is retrieved by using Selenium to mimic end-user behavior and click on each link. After running the script, the data retrieved is saved to a csv file. This respository contains both the Python script and the output that was saved to a .csv file.
 
 Data Retrieved:
 - URL - website link
